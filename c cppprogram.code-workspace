@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"conio.h": "c",
+			"stdio.h": "c"
+		}
+	}
+}
